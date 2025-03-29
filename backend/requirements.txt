@@ -1,0 +1,14 @@
+transformers
+tensorflow
+tf-keras
+textblob
+fastapi
+uvicorn
+pydantic
+python-dotenv
+weasyprint
+pymongo
+jinja2
+python-multipart
+torch
+certifi
